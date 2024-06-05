@@ -1,0 +1,11 @@
+langchain
+openai
+tiktoken
+faiss-gpu
+langchain_experimental
+langchain[docarray]
+pypdf
+langchain_openai
+python-dotenv
+streamlit
+langchain-community
